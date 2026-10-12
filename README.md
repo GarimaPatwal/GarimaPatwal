@@ -11,7 +11,7 @@ My experience includes data cleaning and preprocessing, EDA, statistical analysi
 I am currently seeking opportunities across the UAE and wider region in Data Analytics, Business Intelligence, Data Analyst, and Junior Machine Learning roles. I am keen to apply my technical and analytical skills to real-world business challenges while continuing to learn and grow in a collaborative, data-driven environment.
 
 * 🌍  I'm based in Dubai, United Arab Emirates.
-* ✉️  You can contact me at [Garimapatwalofficial@gmail.com](mailto:Garimapatwalofficial@gmail.com)
+* ✉️  You can contact me at [Garimapatwal318@gmail.com](mailto:Garimapatwal318@gmail.com)
 * 🧠  I'm currently learning Advanced Machine Learning, Deep Learning, and Data Science techniques.
 * 👥  I'm looking to collaborate on Data Analytics, Business Intelligence, Machine Learning, and Data Visualization projects that create real-world impact.
 * 💬  Ask me about Passionate about transforming data into meaningful insights and real-world solutions.
